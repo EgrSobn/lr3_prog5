@@ -5,7 +5,7 @@ import requests
 from translate import Translator
 import datetime as dt
 # токен телеграм-бота
-token = '5729893176:AAEdlTi6BzN84uWvJWEB7cYq220S4UlFGI4'
+token = 'токен'
 # токен OpenWeatherApi
 weather_token = '4b2f11bf582a82a29f0772230f12c83a'
 bot = telebot.TeleBot(token)
